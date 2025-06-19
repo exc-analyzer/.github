@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+EXC Analyzer is an open-source analysis platform for log processing, event tracking, and system behavior observability. With its modular and extensible architecture, it serves use cases in cybersecurity, system administration, and debugging. The exc project offers powerful engines, customizable parsers, and CLI tools, providing a solid foundation for developers. It welcomes contributions and aims to inspire researchers and engineers in the community.
