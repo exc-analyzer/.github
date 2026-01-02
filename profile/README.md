@@ -37,5 +37,5 @@ EXC Analyzer is a community-driven project. Whether you want to fix a bug, add a
 
 ---
 <div align="center">
-  <sub>EXC Analyzer Community © 2025. Open source for a safer digital world.</sub>
+  <sub>EXC Analyzer Community © 2026. Open source for a safer digital world.</sub>
 </div>
