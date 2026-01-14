@@ -1,6 +1,6 @@
 <div align="center" style="display: flex; align-items: center; gap: 15px; justify-content: center;">
-  <img src="https://github.com/user-attachments/assets/a31ba004-ec45-4449-bd9c-f5539a75ef07" 
-       alt="EXC Analyzer Logo" width="120" height="120">
+  <img width="120" height="120" alt="ascii-art-transparent-1768427337968" src="https://github.com/user-attachments/assets/f6c509f1-1765-4866-81b8-c4d8e313a2c5" />
+       <alt="EXC Analyzer Logo" width="120" height="120">
 </div>
 
 
